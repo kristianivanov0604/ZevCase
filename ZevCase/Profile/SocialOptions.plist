@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string></string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Find &amp; Invite Friends</string>
+				<key>type</key>
+				<string>indicator</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Photos You&apos;ve Liked</string>
+				<key>type</key>
+				<string>indicator</string>
+			</dict>
+		</array>
+		<key>footer</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Account</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Log Out</string>
+				<key>type</key>
+				<string>button</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Sharing Settings</string>
+				<key>type</key>
+				<string>indicator</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Push Notification Settings</string>
+				<key>type</key>
+				<string>indicator</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Clear Search History</string>
+				<key>type</key>
+				<string>button</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Photos Are Private</string>
+				<key>type</key>
+				<string>switch</string>
+			</dict>
+		</array>
+		<key>footer</key>
+		<string>Turn privacy ON to approve follow requests. Your existing followers won&apos;t be affected.</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Save to Library</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Original Photos</string>
+				<key>type</key>
+				<string>switch</string>
+			</dict>
+		</array>
+		<key>footer</key>
+		<string>We save photos to your Camera Roll.</string>
+	</dict>
+	<dict>
+		<key>header</key>
+		<string>Terms</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Privacy Policy</string>
+				<key>type</key>
+				<string>indicator</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>title</key>
+				<string>Terms Of Service</string>
+				<key>type</key>
+				<string>indicator</string>
+			</dict>
+		</array>
+		<key>footer</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
